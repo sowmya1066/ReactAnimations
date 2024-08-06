@@ -10,11 +10,12 @@ export default function WelcomePage() {
       </header>
       <main id="welcome-content">
         <section>
-          <h2>There&apos;s never been a better time.</h2>
+          <h2>your ultimate productivity companion!</h2>
           <p>
-            With our platform, you can set, track, and conquer challenges at
-            your own pace. Whether it&apos;s personal growth, professional
-            achievements, or just for fun, we&apos;ve
+            Say goodbye to chaos and hello to a seamless flow of productivity.
+            From personal errands to professional projects, UpliftHub keeps you
+            on track with customizable lists, timely reminders, and insightful
+            progress tracking.
           </p>
         </section>
         <Link id="cta-link" to="/challenges">
