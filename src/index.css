@@ -9,7 +9,7 @@ body {
   font-family: "Lato", serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: linear-gradient(#222c31, #111d32);
+  background: #031103;
   color: #d9e2f1;
   min-height: 100vh;
 }
@@ -53,7 +53,7 @@ body {
 #cta-link {
   display: inline-block;
   padding: 0.5rem 1rem;
-  background-color: #0f61ef;
+  background-color: #35dda4;
   color: #fff;
   border-radius: 4px;
   text-decoration: none;
@@ -66,7 +66,7 @@ body {
 }
 
 #cta-link:hover {
-  background-color: #0f86ef;
+  background-color: #199962;
 }
 
 #welcome-content section {
@@ -76,8 +76,8 @@ body {
 
 #welcome-content h2 {
   font-size: 2.5rem;
-  margin: 2rem 0;
-  color: #f2f25d;
+  margin: 1rem -2rem;
+  color: #199962;
   width: 125%;
 }
 
