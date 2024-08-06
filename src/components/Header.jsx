@@ -20,14 +20,14 @@ export default function Header() {
       </AnimatePresence>
 
       <header id="main-header">
-        <h1>Your Challenges</h1>
+        <h1>Your Todo's for today</h1>
         <motion.button
           whileHover={{ scale: 1.1, backgroundColor: "yellow", color: "black" }}
           transition={{ type: "spring", stiffness: 500 }}
           onClick={handleStartAddNewChallenge}
           className="button"
         >
-          Add Challenge
+          Add
         </motion.button>
       </header>
     </>

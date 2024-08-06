@@ -22,6 +22,7 @@ body {
   max-width: 40rem;
   margin: 2rem auto;
   color: #fff;
+  gap: 40px;
 }
 
 #main-header h1 {
@@ -32,7 +33,7 @@ body {
 
 #welcome-header {
   height: 100vh;
-  margin-top: 300px;
+  margin-top: 100px;
   margin-left: 300px;
   margin-bottom: -50px;
 }
