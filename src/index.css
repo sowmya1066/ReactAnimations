@@ -28,7 +28,7 @@ body {
 #main-header h1 {
   font-family: "Quicksand", sans-serif;
   font-size: 1.5rem;
-  color: #84b0fc;
+  color: #35dda4;
 }
 
 #welcome-header {
@@ -104,7 +104,7 @@ main {
   border-radius: 4px;
   border: 1px solid #d9e2f1;
   background-color: #fff;
-  color: #414956;
+  color: #35dda4;
   font-size: 0.8rem;
   font-family: "Quicksand", sans-serif;
 }
