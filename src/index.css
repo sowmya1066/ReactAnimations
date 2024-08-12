@@ -126,7 +126,7 @@ main {
 }
 
 #new-challenge-images li.selected {
-  border: 2px solid #0f61ef;
+  border: 2px solid #199962;
 }
 
 #new-challenge-images li img {
@@ -136,7 +136,7 @@ main {
 }
 
 #challenges {
-  background-color: #22323a;
+  background-color: rgba(10, 146, 44, 0.409);
   padding: 1rem;
   border-radius: 6px;
 }
@@ -156,7 +156,7 @@ main {
   cursor: pointer;
   border-radius: 4px 4px 0 0;
   background-color: transparent;
-  color: #b0caf9;
+  color: #35dda4;
   border: none;
   box-shadow: none;
   display: flex;
@@ -165,12 +165,11 @@ main {
 
 #tabs button:hover,
 #tabs button.selected {
-  /* background-color: #355767; */
   color: #fff;
 }
 
 #tabs .active-tab-indicator {
-  border: 1.5px solid #0f86ef;
+  border: 1.5px solid #199962;
   border-radius: 8px;
 }
 
@@ -202,7 +201,7 @@ main {
 .challenge-item header h2 {
   margin: 0;
   font-size: 1.25rem;
-  color: #b1c1d9;
+  color: #35dda4;
 }
 
 .challenge-item header p {
@@ -222,12 +221,12 @@ main {
   font: inherit;
   background: transparent;
   border: none;
-  color: #7aaafc;
+  color: #179a4a;
   padding: 0;
 }
 
 .challenge-item-actions button:hover {
-  color: #5d7bf2;
+  color: #179a4a;
 }
 
 .challenge-item-actions .btn-negative {
@@ -249,7 +248,7 @@ main {
   font: inherit;
   background: transparent;
   border: none;
-  color: #7aaafc;
+  color: #27dfaa;
   padding: 0;
 }
 
@@ -268,7 +267,7 @@ main {
   cursor: pointer;
   padding: 0.5rem 1rem;
   border-radius: 4px;
-  background-color: #0f61ef;
+  background-color: #27dfaa;
   color: #fff;
   border: none;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
@@ -276,7 +275,7 @@ main {
 
 .new-challenge-actions button:hover,
 .button:hover {
-  background-color: #0f3cef;
+  background-color: #27dfaa;
 }
 
 .modal {
@@ -304,14 +303,14 @@ main {
   padding: 0.5rem 1rem;
   border-radius: 4px;
   background-color: transparent;
-  color: #314a77;
+  color: #27dfaa;
   border: none;
   box-shadow: none;
 }
 
 .new-challenge-actions button:first-of-type:hover {
   background-color: transparent;
-  color: #0f3cef;
+  color: #27dfaa;
 }
 
 .backdrop {
@@ -328,7 +327,7 @@ main {
   margin-left: 0.5rem;
   padding: 0.25rem 0.5rem;
   border-radius: 4px;
-  background-color: #0f61ef;
+  background-color: #27dfaa;
   color: #fff;
   font-size: 0.5rem;
 }
